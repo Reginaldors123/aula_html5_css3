@@ -1,5 +1,5 @@
 body {
-     background: rgba(70, 53, 53, 0.774);
+     background: rgba(135, 165, 110, 0.774);
      margin-left: 30px;
      margin-right: 100px;
 }
@@ -9,7 +9,7 @@ header{
 
    
 h1 {
-    color: red;
+    color: rgb(82, 14, 207);
     font-family: fantasy;
     
 }
